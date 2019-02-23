@@ -1,0 +1,2 @@
+# YazilimPrensipleri
+Yazılım Prensipleri
